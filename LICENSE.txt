@@ -1,0 +1,7 @@
+Copyright (c) 2025 Sadman Naser Khan
+
+All rights reserved.
+
+This code is provided for viewing and evaluation purposes only.
+No part of this code may be reproduced, distributed, or used
+in any form without express written permission from the author.
